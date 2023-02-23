@@ -1,8 +1,10 @@
-/**
- * Write a function that prints the numbers, from 0 to 9, followed by a new line.
- * Return: 0
- */
 #include "main.h"
+
+/**
+ * print_most_numbers - checks for checks for a digit (0 through 9)
+ *
+ * Return: Always 0.
+ */
 void print_most_numbers(void)
 {
 	int c;

@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * -power - calculate (base and power).
- * @base: base of the exponet.
+ * _power - calculate (base and power)
+ * @base: base of the exponet
  * @pow: power of the exponet
  * Return: value of base and power
  */
